@@ -1,2 +1,3 @@
 # coolio-vims
-nvim things
+
+A cool epic config for neovim! We gaming. 
